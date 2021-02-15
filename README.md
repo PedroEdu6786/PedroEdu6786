@@ -1,11 +1,13 @@
-### Hi there I'm Pedro Cruz 👋
+# Hi there I'm Pedro Cruz 👋
 
 I'm a software engineer student
 
--   🔭 I’m currently working on Javascript
--   🌱 I’m currently learning React.js
--   💬 Ask me about any project ideas!
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Next.js
+- 💬 Ask me about any project ideas!
 
-![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedroedu6786&show_icons=true)
+### Web Portfolio
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroedu6786&layout=compact)
+https://pcruz.vercel.app/
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroedu6786&layout=compact&theme=react)
